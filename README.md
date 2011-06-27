@@ -126,3 +126,11 @@ Packages
 Any major pain points?
 ----------------------
 * Exceptions - backtraces is only made of the current callback scope
+
+Resources
+----------
+ * http://nodejs.org/
+ * http://www.youtube.com/watch?v=jo_B4LTHi3I
+ * http://www.youtube.com/watch?v=F6k8lTrAE2g
+ * http://developer.yahoo.com/yui/theater/ (JS vids)
+ * https://github.com/tokumine/Node.js-Introduction
